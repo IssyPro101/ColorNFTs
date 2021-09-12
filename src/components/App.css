@@ -1,0 +1,30 @@
+/* Styles go here */
+
+.token {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  display: inline-block;
+  border:2px solid black;
+}
+
+h1 {
+  text-align: center;
+}
+
+#color-wrap {
+  padding:5px;
+  margin: 0px 0px;
+}
+
+#hex {
+  margin-bottom:5px;
+}
+
+#color-wrap div {
+  font-size:12px;
+}
+
+#tokenURI {
+  font-size:1px;
+}
