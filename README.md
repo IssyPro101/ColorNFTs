@@ -1,2 +1,2 @@
 # ColorNFTs
-Here is the dapp: https://colortokens.netlify.app/
+Here is the dapp: https://nftcolortoken-ia.netlify.app/
